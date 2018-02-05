@@ -8,8 +8,9 @@ Set-up-Box Exploitation Framework
 ## Getting Started
 
 This tool was developed to analyze and present the current vulnerabilities on Set-up-Boxes.
-The idea came from the producers of IoT Exploitation Framework - Routersploit.
 The concept is to unify in a tool all the known 0 days or other vulnerabilities ignored by brands/vendors.
+
+Inspired in IoT Exploitation Framework - Routersploit.
 
 
 ### Prerequisites
@@ -31,29 +32,55 @@ IT WILL!!
 ```
 
 
-## Running the tests
+## Usage
 
-IGNORE ALL THE TESTS!!!
+```
+root@ruben0S:~/git/stbxploit# ./stbx.py
+ _____  _    _     __   __        _         _  _   
+/  ___|| |  | |    \ \ / /       | |       (_)| |  
+\ `--. | |_ | |__   \ V /  _ __  | |  ___   _ | |_ 
+ `--. \| __|| '_ \  /   \ | '_ \ | | / _ \ | || __|
+/\__/ /| |_ | |_) |/ /^\ \| |_) || || (_) || || |_ 
+\____/  \__||_.__/ \/   \/| .__/ |_| \___/ |_| \__|
+                          | |                      
+                          |_| 
 
+        Set-up-Box Eploitation Framework
+        
+ Dev Team : Ruben Maia (ruben0S)
+ Codename : Angry Pasterino
+ Version  : 0.1.a
+
+stbx >
+```
+
+Steps to be defined...
 
 ## Deployment
 
-TO DO
+Under daily deployment.
+
+Check out the new updates by using Git repository.
+
+```
+cd stbxploit
+git pull
+```
 
 
 ## Built With
 
-TO DO
+Caffeine and dreams
 
 
 ## Contributing
 
-TO DO
+TBA
 
 
 ## Versioning
 
-TO DO
+TBD
 
 
 ## Authors
